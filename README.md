@@ -31,3 +31,25 @@ pip install -r requirements.txt
 
 # اجرای نوت‌بوک
 jupyter notebook Untitled-1.ipynb
+تکنولوژی‌ها و ابزارها / Technologies & Tools
+
+
+
+🛠️ تکنولوژی‌ها و ابزارها / Technologies & Tools
+
+Python
+
+Jupyter Notebook
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+
+
+
+
+
+
